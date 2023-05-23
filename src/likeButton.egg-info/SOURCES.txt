@@ -1,0 +1,13 @@
+pyproject.toml
+setup.cfg
+setup.py
+src/likeButton/__init__.py
+src/likeButton/hit_that_like_button.py
+src/likeButton/py.typed
+src/likeButton.egg-info/PKG-INFO
+src/likeButton.egg-info/SOURCES.txt
+src/likeButton.egg-info/dependency_links.txt
+src/likeButton.egg-info/not-zip-safe
+src/likeButton.egg-info/requires.txt
+src/likeButton.egg-info/top_level.txt
+tests/test_hit.py
